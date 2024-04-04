@@ -2,8 +2,9 @@
 
 ### Hii, I'm Aryan  
   
-![](https://visitor-badge.laobi.icu/badge?page_id=rishabhdev444.rishabhdev444)       [![Github](https://img.shields.io/github/followers/rishabhdev444?label=Follow&style=social)](https://github.com/rishabhdev444)
-<img  src="https://github.com/rishabhdev444/rishabhdev444/blob/main/giphy.gif" alt="Coder GIF"  width="400" height="400" style="float:left" align="right">
+![](https://visitor-badge.laobi.icu/badge?page_id=Aryan-1121.Aryan-1121)       [![Github](https://img.shields.io/github/followers/Aryan-1121?label=Follow&style=social)](https://github.com/Aryan-1121)
+
+<!--	<img  src="https://github.com/rishabhdev444/rishabhdev444/blob/main/giphy.gif" alt="Coder GIF"  width="400" height="400" style="float:left" align="right">	-->
 
 ##  About Me:
 
@@ -38,7 +39,7 @@
 
 
                              
-## Let's Connect :coffee:
+## Let's Connect 
 <p align="left">
 	<a href="https://github.com/Aryan-1121"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aryan879/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
