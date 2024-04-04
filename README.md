@@ -8,9 +8,9 @@
 
 ##  About Me:
 
-- 🔭 B.Tech -  ECE (2022)
-- 🌱 Skilled in Java, C++, SQL, SpringBoot, Javascript, React Js, Tailwind CSS.
-- 📫 Reach me at :- aryanmaurya879@gmail.com
+- B.Tech -  ECE (2022)
+- Skilled in Java, C++, SQL, SpringBoot, Javascript, React Js, Tailwind CSS.
+- Reach me at :- aryanmaurya879@gmail.com
 
 
 ##  Tools/Technologies:
@@ -34,8 +34,8 @@
 -->
 	
 ##  My GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan-1121&&show_icons=true&title_color=3A1C71&icon_color=bb2acf&text_color=3A1C71&bg_color=F4E2D8>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-1121&theme=tokyonight)    
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan-1121&&show_icons=true&title_color=3A1C71&icon_color=bb2acf&text_color=3A1C71&bg_color=F4E2D8">	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-1121&theme=tokyonight)    
 
 
                              
