@@ -1,18 +1,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
 
-### Hello 👋 , I'm Rishabh Dev 
+### Hii, I'm Aryan  
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=rishabhdev444.rishabhdev444)       [![Github](https://img.shields.io/github/followers/rishabhdev444?label=Follow&style=social)](https://github.com/rishabhdev444)
 <img  src="https://github.com/rishabhdev444/rishabhdev444/blob/main/giphy.gif" alt="Coder GIF"  width="400" height="400" style="float:left" align="right">
 
-## 🙍 About Me:
+##  About Me:
 
 - 🔭 B.Tech -  ECE (2022)
 - 🌱 Skilled in Java, C++, SQL, SpringBoot, Javascript, React Js, Tailwind CSS.
 - 📫 Reach me at :- aryanmaurya879@gmail.com
 
 
-## 🧰 Tools/Technologies:
+##  Tools/Technologies:
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="JAVA" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
@@ -32,7 +32,7 @@
 </br>
 
 -->
-## 🧰 My GitHub Stats:
+##  My GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Aryan-1121&&show_icons=true&title_color=3A1C71&icon_color=bb2acf&text_color=3A1C71&bg_color=F4E2D8>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-1121&theme=tokyonight)    
 
