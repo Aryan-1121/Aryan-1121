@@ -22,8 +22,7 @@
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 	  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind" height="40" style="vertical-align:top; margin:4px">
-
-
+<!--
   <img src="https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/" alt="HTML" height="40" style="vertical-align:top; margin:4px">
    <img src="https://i.imgur.com/J6LeoUb.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
@@ -32,6 +31,7 @@
  style="vertical-align:top; margin:4px">
 </br>
 
+-->
 ## 🧰 My GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Aryan-1121&&show_icons=true&title_color=3A1C71&icon_color=bb2acf&text_color=3A1C71&bg_color=F4E2D8>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-1121&theme=tokyonight)    
@@ -46,7 +46,7 @@
 </p>
 
 
-<!--  Last Made on 4 April 2024    -->
+<!--  Last update on 4 April 2024    -->
 
 <!--
 **Aryan-1121/Aryan-1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
