@@ -9,8 +9,16 @@
 ##  About Me:
 
 - B.Tech -  ECE (2022)
-- Skilled in Java, C++, SQL, SpringBoot, Javascript, React Js, Tailwind CSS.
-- Reach me at :- aryanmaurya879@gmail.com
+- Skilled in - Java | C++ | SQL | Spring Boot | JUnit | Microservices | JavaScript | React | Next.js | Tailwind CSS | Rest APIs | Jenkins(CI/CD) | MySQL | Postgres | Docker |  JWT 
+- Reach me at - aryanmaurya879@gmail.com
+
+
+##  Live Projects:
+
+<a href="https://connect-sphere-nine.vercel.app"><img src="https://connect-sphere-nine.vercel.app/assets/images/connect-logo.png" alt="Connect-Sphere" width="200"/></a>
+
+- A Social Media Platform where user can Sign-up/Sign-in, Create Post,  VIEW, LIKE & SAVE ohter's Post, Search Posts on basis of hashTags(added by user during post creation)
+- Tools/Tech : React, Tailwind CSS, Shadcn UI library, Appwrite for relational db and bucket storage, Git/GitHub
 
 
 ##  Tools/Technologies:
