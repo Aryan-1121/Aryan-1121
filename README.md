@@ -9,11 +9,15 @@
 ##  About Me:
 
 - B.Tech -  ECE (2022)
-- Skilled in - Java | C++ | SQL | Spring Boot | JUnit | Microservices | JavaScript | React | Next.js | Tailwind CSS | Rest APIs | Jenkins(CI/CD) | MySQL | Postgres | Docker |  JWT 
+- Skilled in -
+  - Java | SQL | Spring Boot | JUnit | Microservices | JavaScript | React | Next.js | Tailwind CSS | Rest APIs | Jenkins(CI/CD) | MySQL | Postgres | Docker |  JWT | C++
+ 
+    
 - Reach me at - aryanmaurya879@gmail.com
 
-
+###
 ##  Live Projects:
+
 
 <a href="https://connect-sphere-nine.vercel.app"><img src="https://connect-sphere-nine.vercel.app/assets/images/connect-logo.png" alt="Connect-Sphere" width="200"/></a>
 
@@ -21,10 +25,15 @@
 - Tools/Tech : React, TypeScript, Tailwind CSS, Shadcn UI library, Appwrite for relational db and bucket storage, Git/GitHub
 
 
-<a class="flex items-center gap-1" href="/"><img alt="connect logo" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="max-sm:size-10" src="https://connect-six-tan.vercel.app/_next/image?url=%2Ficons%2FappLogo.png&w=64&q=75"><h4 style="font-family: Arial, sans-serif; color: blue; font-weight: bold;">CONNECT</h4></a>
+##
+
+
+[![Connec-Video-Confrencing-App](https://connect-six-tan.vercel.app/_next/image?url=%2Ficons%2FappLogo.png&w=64&q=75)](https://connect-six-tan.vercel.app) [**CONNECT**](https://connect-six-tan.vercel.app)
 
 - A Zoom-like Video-Conferencing application where user can Sign-up/Sign-in, Create an Instant or Schedule a meeting with all features like (mic/cam setting, screen share, latency stats, screen Pin etc), view Past, Upcoming and Recorded meetings and Share Invite Lnks.  
 - Tools/Tech : Next.js, TypeScript, Tailwind CSS, ShadCn UI library, Clerk for user Management, Stream for streaming, Git/GitHub
+
+
 
 
 ##  Tools/Technologies:
