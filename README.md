@@ -18,7 +18,13 @@
 <a href="https://connect-sphere-nine.vercel.app"><img src="https://connect-sphere-nine.vercel.app/assets/images/connect-logo.png" alt="Connect-Sphere" width="200"/></a>
 
 - A Social Media Platform where user can Sign-up/Sign-in, Create Post,  VIEW, LIKE & SAVE ohter's Post, Search Posts on basis of hashTags(added by user during post creation)
-- Tools/Tech : React, Tailwind CSS, Shadcn UI library, Appwrite for relational db and bucket storage, Git/GitHub
+- Tools/Tech : React, TypeScript, Tailwind CSS, Shadcn UI library, Appwrite for relational db and bucket storage, Git/GitHub
+
+
+<a class="flex items-center gap-1" href="/"><img alt="connect logo" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="max-sm:size-10" src="https://connect-six-tan.vercel.app/_next/image?url=%2Ficons%2FappLogo.png&w=64&q=75"><h4 style="font-family: Arial, sans-serif; color: blue; font-weight: bold;">CONNECT</h4></a>
+
+- A Zoom-like Video-Conferencing application where user can Sign-up/Sign-in, Create an Instant or Schedule a meeting with all features like (mic/cam setting, screen share, latency stats, screen Pin etc), view Past, Upcoming and Recorded meetings and Share Invite Lnks.  
+- Tools/Tech : Next.js, TypeScript, Tailwind CSS, ShadCn UI library, Clerk for user Management, Stream for streaming, Git/GitHub
 
 
 ##  Tools/Technologies:
