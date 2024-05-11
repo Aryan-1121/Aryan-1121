@@ -19,6 +19,20 @@
 ##  Live Projects:
 
 
+[KURIER](https://www.example.com)
+
+<a href="https://kurier-msh1.onrender.com"  >
+	<img src="https://github.com/Aryan-1121/Aryan-1121/blob/main/hbtrimmed.jpg" alt="Kurier pumpkin image" width="150"/> 
+</a>
+
+- Created a real time Chat-App that assigns users a random profile picture making it fun interaction. 
+- Tools/Tech : React, JavaScript, NodeJs, Tailwind CSS, Daisy UI library, Zustand, Socket.io, Git/GitHub
+
+
+##
+
+
+
 <a href="https://connect-sphere-nine.vercel.app"><img src="https://connect-sphere-nine.vercel.app/assets/images/connect-logo.png" alt="Connect-Sphere" width="200"/></a>
 
 - A Social Media Platform where user can Sign-up/Sign-in, Create Post,  VIEW, LIKE & SAVE ohter's Post, Search Posts on basis of hashTags(added by user during post creation)
