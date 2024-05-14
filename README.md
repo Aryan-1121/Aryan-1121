@@ -25,8 +25,8 @@
 	<img src="https://github.com/Aryan-1121/Aryan-1121/blob/main/hbtrimmed.jpg" alt="Kurier pumpkin image" width="150"/> 
 </a>
 
-- Created a real time Chat-App that assigns users a random profile picture making it fun interaction. 
-- Tools/Tech : React, JavaScript, NodeJs, Tailwind CSS, Daisy UI library, Zustand, Socket.io, Git/GitHub
+- Created a real time Chat-App that assigns users a random profile picture when signs-up making it fun interaction. 
+- Tools/Tech : React, JavaScript, NodeJs, Tailwind CSS, Daisy UI library, JWT, Zustand, Socket.io, Git/GitHub
 
 
 ##
