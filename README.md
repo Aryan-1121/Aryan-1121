@@ -16,10 +16,21 @@
 - Reach me at - aryanmaurya879@gmail.com
 
 ###
+##  Projects:
+#### Product Shop
+- Back-end heavy Micro-services architecture based E-commerce platform project utilizing popular tools/technologies and Design Patterns :
+   - 4 RESTful services communicating each other and their separate databases (MySQL, MongoDB).
+   - Implemented API-gateway and Discovery-Server for better service routing, load balancing, Scaling and security purposes.
+   -  Sending notification Asynchronously using pub-sub model with Kafka
+   -  Utilized circuit-breaker design pattern and retry mechanism for fault tolerance and resiliency
+   -  Added Actuators, Micrometer and Prometheus with Grafana for application metrics, distributed tracing system and monitoring with UI.
+   -  Created Docker containers for all the services 
+
+###
 ##  Live Projects:
 
 
-[KURIER](https://kurier-msh1.onrender.com)
+[KURIER](https://kurier-msh1.onrender.com)  (MERN)
 
 <a href="https://kurier-msh1.onrender.com"  >
 	<img src="https://github.com/Aryan-1121/Aryan-1121/blob/main/hbtrimmed.jpg" alt="Kurier pumpkin image" width="150"/> 
