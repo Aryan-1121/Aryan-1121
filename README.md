@@ -17,7 +17,7 @@
 
 ###
 ##  Projects:
-#### Product Shop
+#### Product Shop (Spring boot)
 - Back-end heavy Micro-services architecture based E-commerce platform project utilizing popular tools/technologies and Design Patterns :
    - 4 RESTful services communicating each other and their separate databases (MySQL, MongoDB).
    - Implemented API-gateway and Discovery-Server for better service routing, load balancing, Scaling and security purposes.
