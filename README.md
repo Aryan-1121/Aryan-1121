@@ -4,7 +4,7 @@
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=Aryan-1121.Aryan-1121)       [![Github](https://img.shields.io/github/followers/Aryan-1121?label=Follow&style=social)](https://github.com/Aryan-1121)
 
-<!--	<img  src="https://github.com/rishabhdev444/rishabhdev444/blob/main/giphy.gif" alt="Coder GIF"  width="400" height="400" style="float:left" align="right">	-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-1121&theme=github-dark&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=220)](https://git.io/streak-stats)
 
 ##  About Me:
 
