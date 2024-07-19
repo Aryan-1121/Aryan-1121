@@ -21,7 +21,13 @@
 #### Library management maybe :) (Spring boot)
 
 
-#### Fair Share :) (Spring boot, React)
+#### Fair Share  (Spring boot, React)
+- Developed an Full-stack Expense Management application, like Splitwise -
+  - Implemented user authentication with JWT, ensuring secure access to the application.
+  - Designed and maintained RESTful APIs for managing users, expenses, and transactions.
+  - Utilized Spring Data JPA for seamless integration with a MySQL database.
+  - Created dynamic, responsive UI components with React, ensuring a smooth user experience.
+  - Integrated form validation and error handling to enhance robustness.
 
 
 
